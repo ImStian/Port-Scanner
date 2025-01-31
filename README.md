@@ -18,7 +18,7 @@ pip install tqdm pyfiglet
 ## Usage
 Run the script with a target hostname or IP address:
 ```sh
-python script_name.py <target>
+python portscanner.py <target>
 ```
 Replace `<target>` with the domain name or IP address of the target system.
 
